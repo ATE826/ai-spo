@@ -2,6 +2,6 @@ To train
 
 (Must install) pip install ultralytics --user
 
-yolo train data=dataset.yaml model=yolo11l.pt epochs=10 imgsz=640
+yolo train data=dataset.yaml model=yolo11l.pt epochs=60 imgsz=640
 
 Make sure to change paths to directories in the `dataset.yaml` file.

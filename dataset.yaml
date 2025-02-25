@@ -1,5 +1,5 @@
 # MODIFY PATHS FOR THIS TO WORK ON YOUR MACHINE
-train: /%USERPROFILE%/Documents/MIREAcoding/2-II-spo/ai/dataset/train/
-val: /%USERPROFILE%/Documents/MIREAcoding/2-II-spo/ai/dataset/val/
+train: C:/VSCode projects/SPO-YOLO/ai-spo/ai/dataset/train/
+val: C:/VSCode projects/SPO-YOLO/ai-spo/ai/dataset/val/
 nc: 1  # Number of classes (e.g., 1 for "Star")
 names: ['Star']
