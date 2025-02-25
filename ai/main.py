@@ -8,7 +8,7 @@ import cv2
 import numpy as np
 
 # load yolo model
-modelYolo = YOLO('../runs/detect/train5/weights/best.pt')
+modelYolo = YOLO('../runs/detect/train8/weights/best.pt')
 feature_sequence = []
 
 # image
