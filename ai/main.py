@@ -37,6 +37,7 @@ for result in results:
         print(f"Star detected at: ({x_center}, {y_center}), size: ({width}, {height}), confidence: {confidence}")
 
 feature_sequence = np.array(feature_sequence)
+
 # max_length = 10  # Maximum number of stars per image
 # padded_sequence = np.zeros((max_length, 5))  # 5 features per star
 # padded_sequence[:len(feature_sequence)] = feature_sequence
