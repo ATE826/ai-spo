@@ -4,4 +4,4 @@ To train
 
 yolo train data=dataset.yaml model=yolo11n.pt epochs=60 imgsz=640
 
-Make sure to change paths to directories in the `dataset.yaml` file.
+Make sure to change paths to directories in the `dataset.yaml` file. 
